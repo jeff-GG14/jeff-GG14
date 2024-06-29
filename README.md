@@ -8,8 +8,8 @@ Meu nome é Jefferson, sou estudante do ensino médio do **Julia Cavassin**
 Jeff.graneman@gmail.com
 
 ### Último projeto feito
--Lógica de programação: desenvolvendo um jogo estilo Pong
+- Lógica de programação: desenvolvendo um jogo estilo Pong
 
-[scratch](https://scratch.mit.edu/projects/1025716959/)
+link do projeto: [scratch](https://scratch.mit.edu/projects/1025716959/)
 
 ![](https://media1.tenor.com/m/J-HRG1Ks-k8AAAAd/zen_ichi.gif)
