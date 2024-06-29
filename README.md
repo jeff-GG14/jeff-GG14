@@ -1,16 +1,15 @@
-## Hi there 👋
+ Olá, *BOAS-VINDAS* ao meu perfil.
 
-<!--
-**jeff-GG14/jeff-GG14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jefferson, sou estudante do ensino médio do **Julia Cavassin**
+- Eu estou estudando no **alura**, [alura](https://www.alura.com.br)
+- Usarei esse espaço para compartilhar projetos feitos por mim.
+### Você pode entrar em contando comigo pelo email
 
-Here are some ideas to get you started:
+Jeff.graneman@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Último projeto feito
+-Lógica de programação: desenvolvendo um jogo estilo Pong
+
+[scratch](https://scratch.mit.edu/projects/1025716959/)
+
+![](https://media1.tenor.com/m/J-HRG1Ks-k8AAAAd/zen_ichi.gif)
